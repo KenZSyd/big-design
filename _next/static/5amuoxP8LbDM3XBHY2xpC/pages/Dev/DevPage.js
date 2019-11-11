@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{Bi82:function(n,e,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Dev/DevPage",function(){var n=t("gzsN");return{page:n.default||n}}])},gzsN:function(n,e,t){"use strict";t.r(e);var a=t("+Ls6"),i=t("ERkP"),u=t.n(i);e.default=function(){return u.a.createElement(a.Flex,{as:"p"},"I'm flex")}}},[["Bi82",1,0]]]);
